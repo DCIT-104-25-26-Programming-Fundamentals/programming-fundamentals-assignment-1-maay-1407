@@ -40,7 +40,7 @@
 # - Use if / elif / else to determine the grade.
 #
 
-#
+
 # =============================================================================
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
@@ -61,8 +61,6 @@ def get_grade(score):
         return "D"
     else:
         return "F"
-
-
 
 score_input = float(input("Enter student score (0-100): "))
 
